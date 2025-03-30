@@ -1,0 +1,5 @@
+- The files are separated by person.
+- The number means the number of the person.
+- Inside the number file you have multiple slices.
+- {number}.nrrd is the original tomography
+- {number}_segmentada.nrrd is the segmented mask.
